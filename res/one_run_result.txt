@@ -1,0 +1,18 @@
+Name: Jenny Paris, Jersey number: 20, Position: Goalie
+Name: Jenny Lee, Jersey number: 7, Position: Defender
+Name: Grace Nelson, Jersey number: 1, Position: Defender
+Name: Adam Black, Jersey number: 11, Position: Midfielder
+Name: Maeve Ross, Jersey number: 12, Position: Midfielder
+Name: Phoebe Smith, Jersey number: 3, Position: Midfielder
+Name: Oliver White, Jersey number: 5, Position: Forward
+
+Name: Daisy Barker, Jersey number: 17
+Name: Alice Bishop, Jersey number: 14
+Name: Adam Black, Jersey number: 11
+Name: Otto Cook, Jersey number: 10
+Name: Jenny Lee, Jersey number: 7
+Name: Grace Nelson, Jersey number: 1
+Name: Jenny Paris, Jersey number: 20
+Name: Maeve Ross, Jersey number: 12
+Name: Phoebe Smith, Jersey number: 3
+Name: Oliver White, Jersey number: 5
